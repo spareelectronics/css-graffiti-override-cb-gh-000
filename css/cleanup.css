@@ -1,1 +1,5 @@
 /* write your override styles here */
+
+#wal .tag-1 {
+  display: none;
+}
